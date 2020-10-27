@@ -1,4 +1,4 @@
-# VideoClassification
+# VideoClassification for Alzheimer's detection
 
 Currently rank 28 out of 800 teams in Alzheimer's detection challenge
 
